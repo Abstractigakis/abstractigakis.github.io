@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>abstractigakis — Canada 2026 shop tools</title>
+  <subtitle>Free CRA-figure calculators. Canonical: abstractigakis.com. PayPal $9 if a tool helped. Not tax advice.</subtitle>
+  <link href="https://abstractigakis.com/shop-tools"/>
+  <link rel="self" href="https://abstractigakis.github.io/feed.xml"/>
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+  <updated>2026-09-14T18:40:00Z</updated>
+  <id>https://abstractigakis.github.io/feed.xml</id>
+  <author><name>Eric Stratigakis</name></author>
+  <entry>
+    <title>Free Canada shop tools — 2026 HST, mileage, CPP, TFSA</title>
+    <link href="https://abstractigakis.com/shop-tools"/>
+    <id>https://abstractigakis.com/shop-tools</id>
+    <updated>2026-09-14T18:40:00Z</updated>
+    <summary>In-browser GST/HST, CRA mileage, CPP/EI, TFSA, and invoice tools. PayPal $9 CAD if a tool helped.</summary>
+  </entry>
+  <entry>
+    <title>2026 GST/HST/PST rates by province</title>
+    <link href="https://abstractigakis.com/shop-tools/gst-hst-2026"/>
+    <id>https://abstractigakis.com/shop-tools/gst-hst-2026</id>
+    <updated>2026-09-14T18:40:00Z</updated>
+    <summary>Nova Scotia HST 14%. Quebec QST 9.975% on the price excluding GST.</summary>
+  </entry>
+  <entry>
+    <title>2026 TFSA $7,000 and RRSP $33,810 limits</title>
+    <link href="https://abstractigakis.com/shop-tools/tfsa-2026"/>
+    <id>https://abstractigakis.com/shop-tools/tfsa-2026</id>
+    <updated>2026-09-14T18:40:00Z</updated>
+    <summary>Annual TFSA room $7,000. Unused room $109,000 if eligible since 2009.</summary>
+  </entry>
+  <entry>
+    <title>2026 CRA mileage rates — 73¢ / 67¢</title>
+    <link href="https://abstractigakis.com/shop-tools/cra-mileage-2026"/>
+    <id>https://abstractigakis.com/shop-tools/cra-mileage-2026</id>
+    <updated>2026-09-14T18:40:00Z</updated>
+    <summary>73¢ then 67¢ per km in the provinces. Finance Canada 2026.</summary>
+  </entry>
+  <entry>
+    <title>Canada 2026 tax and payroll rates — JSON and CSV</title>
+    <link href="https://abstractigakis.com/data"/>
+    <id>https://abstractigakis.com/data</id>
+    <updated>2026-09-14T18:40:00Z</updated>
+    <summary>MIT JSON and CSV. CORS open.</summary>
+  </entry>
+</feed>
